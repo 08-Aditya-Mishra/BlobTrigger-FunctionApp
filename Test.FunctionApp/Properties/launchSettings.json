@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Test.FunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7084",
+      "launchBrowser": false
+    }
+  }
+}
